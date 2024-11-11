@@ -1,0 +1,1 @@
+# nuxt-sentry-setuser
